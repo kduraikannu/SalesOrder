@@ -1,0 +1,42 @@
+{
+	"fileName": "id_1563463310183_104_propertyChange",
+	"fileType": "change",
+	"changeType": "propertyChange",
+	"moduleName": "",
+	"reference": "SalesOrderWorkspace.SalesOrder.Component",
+	"packageName": "$TMP",
+	"content": {
+		"property": "growingThreshold",
+		"newValue": 5
+	},
+	"selector": {
+		"id": "SalesOrderWorkspace.SalesOrder::sap.suite.ui.generic.template.ListReport.view.ListReport::Z_SALES_ORDER_PERS--responsiveTable",
+		"type": "sap.m.Table",
+		"idIsLocal": false
+	},
+	"layer": "CUSTOMER_BASE",
+	"texts": {},
+	"namespace": "apps/SalesOrderWorkspace.SalesOrder/changes/",
+	"projectId": "SalesOrderWorkspace.SalesOrder",
+	"creation": "2019-07-18T15:22:09.885Z",
+	"originalLanguage": "EN",
+	"conditions": {},
+	"context": "",
+	"support": {
+		"generator": "Change.createInitialFileContent",
+		"service": "",
+		"user": "",
+		"sapui5Version": "1.67.1",
+		"sourceChangeFileName": "",
+		"compositeCommand": ""
+	},
+	"oDataInformation": {},
+	"dependentSelector": {},
+	"validAppVersions": {
+		"creation": "1.0.0",
+		"from": "1.0.0",
+		"to": "1.0.0"
+	},
+	"jsOnly": false,
+	"variantReference": ""
+}
